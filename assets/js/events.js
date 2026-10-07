@@ -6,7 +6,7 @@ const SITE = {
   tagline: "Beyond the Screen - Enter. Solve. Escape.",
   venue: "MMCOE, Pune",
   team: "1-2 Members",
-  fee: "₹50 per head",
+  fee: "₹60 per head",
   prize: "₹15,000",
   prizes: [
     { place: "1st", amount: "₹7,000" },
