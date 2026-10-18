@@ -43,7 +43,7 @@ const EVENTS = [
       { name: "Logic", text: "Teams receive conflicting instructions and must work out the correct sequence." },
       { name: "Core Memory", text: "Teams receive several outputs from the previous phases and use them to reconstruct the final core memory." },
     ],
-    form: "https://forms.gle/REPLACE_ME",
+    form: "https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header",
   },
   {
     id: "cars",
@@ -65,7 +65,7 @@ const EVENTS = [
       { name: "Pit Stop", text: "Teams receive buggy code representing a car's systems: fuel, brake, engine, temperature and speed. They must identify and fix the faults." },
       { name: "Final Race", text: "Each correctly solved technical problem moves your virtual car forward. The first team to finish wins." },
     ],
-    form: "https://forms.gle/REPLACE_ME",
+    form: "https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header",
   },
   {
     id: "findingnemo",
@@ -90,7 +90,7 @@ const EVENTS = [
     ],
     code: "Age > 18\nLocation = Sydney\nID begins with 47",
     codeLabel: "Example filter conditions",
-    form: "https://forms.gle/REPLACE_ME",
+    form: "https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header",
   },
   {
     id: "dragon",
@@ -119,6 +119,6 @@ const EVENTS = [
       { level: "Extreme", xp: 10, color: "#e63027" },
     ],
     showPrizes: true,
-    form: "https://forms.gle/REPLACE_ME",
+    form: "https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header",
   },
 ];

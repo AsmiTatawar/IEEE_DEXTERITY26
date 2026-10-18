@@ -72,7 +72,7 @@ function renderChrome(root = "") {
          <li><a href="${root}index.html#events">Events</a></li>
          <li><a href="${root}index.html#schedule">Schedule</a></li>
          <li><a href="${root}index.html#prizes">Prizes</a></li>
-         <li><a class="btn sm" href="${root}index.html#ticket">Get Ticket</a></li>
+         <li><a class="btn sm" href="https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header" target="_blank" rel="noopener noreferrer">Get Ticket</a></li>
        </ul>
        <div class="lights" aria-hidden="true"></div>
      </nav>`);
