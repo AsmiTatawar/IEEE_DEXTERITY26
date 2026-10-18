@@ -18,7 +18,7 @@ const SITE = {
   linkedin: "https://www.linkedin.com/in/ieee-mmcoe-student-branch-1837ba1b6",
   website: "https://ieeemmcoe.com",
   email: "ieee.studentbranch@mmcoe.edu.in",
-  generalForm: "https://forms.gle/REPLACE_ME",
+  generalForm: "https://docs.google.com/forms/d/e/1FAIpQLSdHnumldXxSqn1RbnaxC2vwDBEiKSO1rny0v9AYiGeW88EguQ/viewform?usp=header",
 };
 
 const EVENTS = [
